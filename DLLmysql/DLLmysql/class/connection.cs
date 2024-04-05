@@ -43,11 +43,11 @@ namespace DLLmysql
             MySqlConnection maconnexion = new MySqlConnection(chaineConnexion);
             return maconnexion;
         }
-        private void OPEN()
+        public void OPEN()
         {
             maconnexion().Open();
         }
-        private void CLOSE()
+        public void CLOSE()
         {
             maconnexion().Close();
         }
