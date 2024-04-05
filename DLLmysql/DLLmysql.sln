@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLLmysql", "DLLmysql\DLLmysql.csproj", "{3EC96DC4-DBB5-4E5D-9516-C49B45486502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC96DC4-DBB5-4E5D-9516-C49B45486502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC96DC4-DBB5-4E5D-9516-C49B45486502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC96DC4-DBB5-4E5D-9516-C49B45486502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC96DC4-DBB5-4E5D-9516-C49B45486502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {056A3F8F-E1FB-47E5-BE61-A88A40B58B45}
+	EndGlobalSection
+EndGlobal
