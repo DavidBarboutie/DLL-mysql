@@ -1,0 +1,31 @@
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\obj\Debug\net8.0\ConsoleApp DLL.csproj.AssemblyReference.cache
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\obj\Debug\net8.0\ConsoleApp DLL.GeneratedMSBuildEditorConfig.editorconfig
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\obj\Debug\net8.0\ConsoleApp DLL.AssemblyInfoInputs.cache
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\obj\Debug\net8.0\ConsoleApp DLL.AssemblyInfo.cs
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\obj\Debug\net8.0\ConsoleApp DLL.csproj.CoreCompileInputs.cache
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\obj\Debug\net8.0\ConsoleApp DLL.sourcelink.json
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\ConsoleApp DLL.exe
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\ConsoleApp DLL.deps.json
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\ConsoleApp DLL.runtimeconfig.json
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\ConsoleApp DLL.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\ConsoleApp DLL.pdb
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\DLL.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\MySql.Data.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\Google.Protobuf.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\ZstdSharp.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\System.Security.Permissions.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\System.IO.Pipelines.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\System.Windows.Extensions.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\bin\Debug\net8.0\DLL.pdb
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\obj\Debug\net8.0\ConsoleApp DLL.csproj.CopyComplete
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\obj\Debug\net8.0\ConsoleApp DLL.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\obj\Debug\net8.0\refint\ConsoleApp DLL.dll
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\obj\Debug\net8.0\ConsoleApp DLL.pdb
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\obj\Debug\net8.0\ConsoleApp DLL.genruntimeconfig.cache
+U:\Espace privé\ap\ap mysql\DLL mysql\ConsoleApp DLL\ConsoleApp DLL\obj\Debug\net8.0\ref\ConsoleApp DLL.dll

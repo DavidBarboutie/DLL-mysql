@@ -9,7 +9,7 @@ using MySql.Data.MySqlClient;
 
 namespace DLLmysql
 {
-    class connection
+    public class connection
     {
         private string server;
         private string identifiant;

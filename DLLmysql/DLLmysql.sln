@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLLmysql", "DLLmysql\DLLmysql.csproj", "{3EC96DC4-DBB5-4E5D-9516-C49B45486502}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DLLmysql", "DLLmysql\DLLmysql.csproj", "{3EC96DC4-DBB5-4E5D-9516-C49B45486502}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{BC4AC48D-A46D-4C5C-A4FD-27DD75F13685}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +20,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3EC96DC4-DBB5-4E5D-9516-C49B45486502} = {BC4AC48D-A46D-4C5C-A4FD-27DD75F13685}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {056A3F8F-E1FB-47E5-BE61-A88A40B58B45}

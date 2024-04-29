@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DLLmysql
 {
-    internal class requete
+    public class requete
     {
         public string DB;
         private string tables;
